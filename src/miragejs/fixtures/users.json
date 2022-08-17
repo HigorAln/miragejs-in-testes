@@ -1,0 +1,21 @@
+[
+  {
+    "id": "1",
+    "name": "John",
+    "age": "30",
+    "city": "New York",
+    "product": 1
+  },
+  {
+    "id": "2",
+    "name": "Sara",
+    "age": "25",
+    "city": "London"
+  },
+  {
+    "id": "3",
+    "name": "Bob",
+    "age": "40",
+    "city": "Paris"
+  }
+]
